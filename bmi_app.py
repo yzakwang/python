@@ -10,4 +10,4 @@ def bmi_app():
 	else:
 		print('You\'d better take some exercises')
 
-bmi_app
+bmi_app()
